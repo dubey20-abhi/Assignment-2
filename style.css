@@ -6,9 +6,10 @@
     align-items: stretch;
     flex-direction: column;
 }
-h2 {
-    margin-top: 0px;
-    margin-bottom: 0px;
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
 }
 .flex-item {
     width: 100%;
